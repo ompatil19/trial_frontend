@@ -17,3 +17,4 @@ int main(){
     printf("0");
     return 0;
 }
+printf("Hello this is om");
